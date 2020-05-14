@@ -1,0 +1,17 @@
+
+V
+squid:S1063"9Replace this use of System.out or System.err by a logger.(μ—΅8―ƒκο.
+Fsquid:S1148C"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8μάφο.
+gsquid:S2147@"DCombine this catch with the one at line 62, which has the same body.(°κγ§ύÿÿÿÿ8μάφο.
+bsquid:S2147B"DCombine this catch with the one at line 62, which has the same body.(ο­£Δ8μάφο.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.( †Π8―ƒκο.
+Fsquid:S1148A"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8μάφο.
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(²¬ª‰8―ƒκο.
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(αηφιϊÿÿÿÿ8―ƒκο.
+_squid:S1075'"ARefactor your code to get this URI from a customizable parameter.(λ°γÒ8―ƒκο.
+Fsquid:S1148?"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8μάφο.
+Isquid:S1135"2Complete the task associated to this TODO comment.(›ΛΣ
+ksquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(σ”όΩϋÿÿÿÿ8νμο.

@@ -1,0 +1,16 @@
+
+sjavascript:S1117á"Q"res" hides or potentially hides a variable declared in an outer scope at line 3.(„¨¦«ùÿÿÿÿ
+ujavascript:S1117Ï"X"chunk_size" hides or potentially hides a variable declared in an outer scope at line 8.(¿‡Ú¯
+ujavascript:S1117˜"X"chunk_size" hides or potentially hides a variable declared in an outer scope at line 8.(º¿»
+ujavascript:S1117á"S"board" hides or potentially hides a variable declared in an outer scope at line 5.(„¨¦«ùÿÿÿÿ
+sjavascript:S1117–"Q"res" hides or potentially hides a variable declared in an outer scope at line 3.(€ÚÄ™ıÿÿÿÿ
+tjavascript:S1117Æ"W"uploader" hides or potentially hides a variable declared in an outer scope at line 10.(Ÿ­‡
+sjavascript:S1117¥"Q"res" hides or potentially hides a variable declared in an outer scope at line 3.(®¹öùüÿÿÿÿ
+pjavascript:S1117Ï"S"board" hides or potentially hides a variable declared in an outer scope at line 5.(¿‡Ú¯
+sjavascript:S1117B"W"uploader" hides or potentially hides a variable declared in an outer scope at line 10.(Ğå¹¡
+yjavascript:S1117±"W"uploader" hides or potentially hides a variable declared in an outer scope at line 10.(œ¾ÿàøÿÿÿÿ
+hjavascript:UnusedVariable´"=Remove the declaration of the unused 'fileUploaded' variable.(´Â–ªşÿÿÿÿ
+bjavascript:UnusedVariablex"8Remove the declaration of the unused 'headers' variable.(«¨œ¤ıÿÿÿÿ
+[javascript:S1854x":Remove this useless assignment to local variable "headers"(«¨œ¤ıÿÿÿÿ
+ajavascript:S1854´"?Remove this useless assignment to local variable "fileUploaded"(´Â–ªşÿÿÿÿ
+ujavascript:S2703C"YAdd the "let", "const" or "var" keyword to this declaration of "key" to make it explicit.(÷‰Ş€

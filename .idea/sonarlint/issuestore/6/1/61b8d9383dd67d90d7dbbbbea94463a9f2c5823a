@@ -1,0 +1,28 @@
+
+Isquid:S1135"2Complete the task associated to this TODO comment.(›ËÓ
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ºÉĞÊùÿÿÿÿ8ÇÙõ.
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(´½ÁÙÿÿÿÿÿ8¨Ê¯õ.
+V
+squid:S106R"9Replace this use of System.out or System.err by a logger.(¾äıÚ8¨Ê¯õ.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(şä¥Ìúÿÿÿÿ8ÇÙõ.
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¥œãğşÿÿÿÿ8¨Ê¯õ.
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Œ×™õ.
+Fsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8æº´õ.
+ksquid:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ç‰Òıÿÿÿÿ8°Õ®õ.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‡…ªÿÿÿÿÿ8ÇÙõ.
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¹Ó¸Ñûÿÿÿÿ8¨Ê¯õ.
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(îüòÿ8¨Ê¯õ.
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Š›ğ£8ÇÙõ.
+esquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‚±¾58ÇÙõ.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(úşÛúÿÿÿÿ8¨Ê¯õ.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ĞüÜ»ûÿÿÿÿ8ÇÙõ.

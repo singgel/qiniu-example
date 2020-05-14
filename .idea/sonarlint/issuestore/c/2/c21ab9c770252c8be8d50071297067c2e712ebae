@@ -1,0 +1,29 @@
+
+[
+java:S3752 ">Add a "method" parameter to this "@RequestMapping" annotation.(©óİ8ÉÃ½º.
+{
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ·Ğîúÿÿÿÿ8ÉÃ½º.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†›ÿıúÿÿÿÿ8ÉÃ½º.
+a	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(à¦­R8ÉÃ½º.
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÇÚ³î8ÉÃ½º.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«¾ö8ÉÃ½º.
+i	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¦­R8ÉÃ½º.
+W
+java:S1143B"5Remove this return statement from this finally block.(áÿèˆıÿÿÿÿ8ÉÃ½º.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(øµ£óûÿÿÿÿ8ÉÃ½º.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¿É—Ê8ÉÃ½º.
+X	java:S125."<This block of commented-out lines of code should be removed.(¥Ö­¤8ÉÃ½º.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ßÀ§šüÿÿÿÿ8ÉÃ½º.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øµ£óûÿÿÿÿ8ÉÃ½º.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßÀ§šüÿÿÿÿ8ÉÃ½º.
+O
+java:S1135"2Complete the task associated to this TODO comment.(›ËÓ8ÉÃ½º.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(†›ÿıúÿÿÿÿ8ÉÃ½º.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿É—Ê8ÉÃ½º.
+ˆ
+java:S1130""lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¦­R8ÉÃ½º.
